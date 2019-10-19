@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mary Postnatal</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_register">Register</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_articles">Read articles by Mary</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_share">Share</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="help">Help</string>
+    <string name="about">About Us</string>
+    <string name="service"><b>Mary postnatal</b> is a platform that enlighten nursing mothers on how to take good care of themselves and their babies. \n It also link unexperienced nursing mothers with the experience ones and allow all of them to share experiences and ideas. </string>
+    <string name="mission"><b>Our Mission:</b>\n Our mission is to educate nursing mothers on how to take good care of themselves and their baby </string>
+    <string name="vision"><b>Our Vision:</b>\n Our vision is to reach to almost all the nursing mothers in Africa within 2 years </string>
+
+    <string name="devcontact">Developer\'s Contact: 08139264713, 08131525726</string>
+    <string name="devemail">EMAIL: nnadihenry92@gmail.com</string>
+    <string name="devlocation">Developed by <b>Henry Computers</b> facebook.com/nnadihenry01,</string>
+
+    <string name="contact">CONTACT US: 08139264713, 09057749021</string>
+    <string name="emailH">EMAIL: marypostnatal@gmail.com</string>
+    <string name="location">OUR ADDRESS: OCHIRIOZUO HOUSE 62, Asa road by Ehi road, Aba,Abia state.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
